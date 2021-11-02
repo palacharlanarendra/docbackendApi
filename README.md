@@ -14,7 +14,7 @@ You can read the authentication header from the headers of the request
 Example request body:
 ```JSON
 {
-  "user":{Auth
+  "user":{
     "email": "jake@jake.jake",
     "password": "jakejake"
   }
